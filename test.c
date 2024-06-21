@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-#include <unistd.h>
 
 /* This is a pure integer-only test program for fixedptc */
 
